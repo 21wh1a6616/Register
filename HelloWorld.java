@@ -2,6 +2,6 @@ class Hello
 {
     public static void main(String []args)
     {
-        System.out.println("Hello World Java Program new");
+        System.out.println("Hello World - Java Program");
     }
 };
